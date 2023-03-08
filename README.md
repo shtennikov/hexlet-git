@@ -1,3 +1,5 @@
-Hello, Hexlet! How are you?
+
 new text to
-q
+
+This repo is my work practice with git
+This repo is my work practice with git22
